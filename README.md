@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- github: https://github.com/OHHAKO
+- blog: https://ohhako.github.io/kimhako/
+- medium: https://medium.com/@khk0503
+
+
 <!--
 **OHHAKO/OHHAKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
