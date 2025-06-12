@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 - GitHub: https://github.com/OHHAKO
-- Blog: https://velog.io/@hakokim/posts (Archive: https://ohhako.github.io/kimhako/)
-- Medium: https://medium.com/@khk0503
+- Blog/Medium: https://medium.com/@khk0503
 - LinkedIn: https://www.linkedin.com/in/하경-김-17b32a223
 
 **About**
-- 🌱 I’m currently learning gesture handling, animation based on React Native ⚡️
 - 👯 I’m looking to collaborate on something fun
 - 📫 How to reach me: khk0503@icloud.com
 
